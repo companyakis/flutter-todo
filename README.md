@@ -1,2 +1,2 @@
-# flutter-bodymass
-Flutter Body Mass Index Sample Project
+# Flutter ToDo Sample Project
+
